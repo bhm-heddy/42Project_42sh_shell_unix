@@ -1,0 +1,17 @@
+[1m
+[38;5;8mWelcome to...                                             
+[0m [38;5;15m 
+	                     .M"""bgd `7MMF'  `7MMF'
+	                    ,MI    "Y   MM      MM  
+	     ,AM    pd*"*b. `MMb.       MM      MM  
+	    AVMM   (O)   j8   `YMMNq.   MMmmmmmmMM  
+	  ,W' MM       ,;j9 .     `MM   MM      MM  
+	,W'   MM    ,-='    Mb     dM   MM      MM  
+	AmmmmmMMmm Ammmmmmm P"Ybmmd"  .JMML.  .JMML.
+	      MM                                    
+	      MM   [38;5;0m By [38;5;46m Heddy [38;5;0m - [38;5;46m Guaubret [38;5;0m- [38;5;46m Pol [38;5;0m- [38;5;46m Ambelghi [38;5;0m- [38;5;46m Voder   [38;5;15m    
+
+[1m
+[38;5;8m
+...Enjoy !
+

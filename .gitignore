@@ -1,0 +1,35 @@
+# binary
+42sh
+42sh_db
+
+# history
+.42sh_history
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# VIM
+*.swp
+
+
+# Debug files
+*.dSYM/
+
+# Vscode
+*.json
+
+# Tags file
+tags

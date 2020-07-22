@@ -1,0 +1,55 @@
+
+   ____ ____ ____ ____ ____ ____ ____ ____
+  ||F |||E |||A |||T |||U |||R |||E |||S ||
+  ||__|||__|||__|||__|||__|||__|||__|||__||
+  |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
+                                         
+                             
+ ##  MODES
+
+    * Non-interactive mode
+    * Debug mode
+
+ ## Separators and Redirections
+
+    * Redirections and fd aggregation : > , >> , <, <<, >&, <&
+    * Pipes : |
+    * Commands separator : ;
+    * Logical operator && and ||                                          
+                   
+ ## Internal variables
+
+    * Shell internal variables handling
+    * Variable assignation name=value
+    * Variable export to environement via export built-in
+    * Local variable assignation, ls PWD=~/
+    * Special parameters managment : $?, $$, $!, $-, $0
+
+ ## Inhibitors
+
+    * ["] double quotes, ['] simple quotes and [\] backslash inhibitors managment
+                                                                 
+ ## Line Editing					 ## Job Control
+
+   * Complete line editing management		   		 * Job control management
+   * Sub-prompt management					 * jobs, fg, bg, & operand
+                                                                                                                             
+ ## Expansion					 	## History Management
+
+    * Simple expansion with ${} and $		   		 * Full history management
+    * Tilde expansion						 * Expansion !!
+    * ${parameter:-word}					 * Expansion !word
+    * ${parameter:=word}					 * Expansion !number
+    * ${parameter:?word}					 * Incremental research with Ctrl + R
+    * ${parameter:+word}					 * Up and down arrow research in the history
+    * ${#parameter}					         * History file save		
+    * ${parameter%word}						 * Fc Built-in
+    * ${parameter#word}
+    * ${parameter%%word}
+    * ${parameter##word}
+      
+## Built-in according to POSIX Standards (except for set and unset)
+
+ * Cd		* Echo		* Exit		* Type		* Set		* Unset		* Export
+ * Jobs		* Fg		* Bg		* Fc		* Hash		* Alias		* Test
+
