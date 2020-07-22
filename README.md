@@ -4,7 +4,7 @@ This is last project at 42 school for the UNIX System specialization.
 
 ## Disclaimer
 
-42sh shell can be compiled on all unix system, but this code was developed and tested on Linux distributions and as a result an unexpected error may occured (mostly for syscalls and signals).
+42sh shell can be compiled on all unix system, but this code was developed and tested on Linux distributions and as a result an unexpected error may occured on mac os (mostly for syscalls and signals).
 
 
 ## Credits
